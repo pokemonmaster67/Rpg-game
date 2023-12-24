@@ -1,0 +1,32 @@
+{
+   "players": [
+       {
+           "id": "player1",
+           "name": "John Doe",
+           "character": "Warrior",
+           "level": 1,
+           "experience": 0,
+           "inventory": []
+       },
+       {
+           "id": "player2",
+           "name": "Jane Doe",
+           "character": "Mage",
+           "level": 1,
+           "experience": 0,
+           "inventory": []
+       }
+   ],
+   "adventures": [
+       {
+           "id": "adventure1",
+           "name": "The Lost City",
+           "status": "ongoing"
+       },
+       {
+           "id": "adventure2",
+           "name": "The Dragon's Lair",
+           "status": "completed"
+       }
+   ]
+}
